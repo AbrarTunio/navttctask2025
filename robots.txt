@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://abrartunio.github.io/navttctask2025/sitemap.xml
